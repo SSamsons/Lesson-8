@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class MaxServicetest {
+public class MaxServiceTest {
     @Test
     public void shouldFindMax() {
         MaxService service = new MaxService();
